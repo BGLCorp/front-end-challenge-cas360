@@ -5,27 +5,31 @@
 1. Solutions should be written in English language.
 2. Use your personal GitHub account to fork current project and push your solution to it (current branch and subdirectory).
 3. Create pull request from your fork project with solution to base repository.
-4. All solutions should be in the same forked project with good code style, comments and 'solution.md' description.
+4. All solutions should be in the same forked project with good code style, comments and _SOLUTION.md_ description.
+5. Please send us a link to your fork project once your work is done.
 
 
 
 
 Convert the following designs to two HTML pages, using HTML/CSS/JS (additional libraries such as AngularJS can be used).
 
-## Infinite scroll page
+## Infinite scroll page (with a popover)
 
 ![preview infinite scroll](https://github.com/BGLCorp/front-end-challenge-cas360/blob/master/infiniteListDesign.png?raw=true)
 
-## Popover design
+## A Popover design (on a separate page)
 
 ![preview popover](https://github.com/BGLCorp/front-end-challenge-cas360/blob/master/notesDesign.png?raw=true)
 
 
-#### Final working sample
-- creating a usable product (UX)
-- code quality
-- fluentness, responsiveness & performance
+#### Instructions
 
+1. Create a project by forking this project
+2. Make the solution responsive using your best judgement.
+3. Use [BEM](https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/) naming convention (optional).
+4. We pay attention to both CSS and JS bundle sizes. Import just what you require and not the whole package.
+5. The code should be _readable_ and of high quality.
+6. Avoid using huge commits hiding your progress. The initial commit should be two bare HTML pages. Work on your branch and feel free to use rebase to adjust your commits before submitting the final version.
 
 ## Coding Standards
 When working on the project use consistent coding style. Try to check guidelines like
@@ -41,6 +45,9 @@ to all these questions:
 
 - Are all requirements set above met?
 - Is the page working without any JS errors?
+- Is the page usable (UX)?
+- code quality
+- Fluentness, responsiveness & performance
 
 ### Precision
 
