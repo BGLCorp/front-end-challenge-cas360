@@ -1,16 +1,5 @@
 # Front-end Test Project
 
-## Introduction
-
-1. Solutions should be written in English language.
-2. Use your personal GitHub account to fork current project and push your solution to it (current branch and subdirectory).
-3. Create pull request from your fork project with solution to base repository.
-4. All solutions should be in the same forked project with good code style, comments and _SOLUTION.md_ description.
-5. Please send us a link to your fork project once your work is done.
-
-
-
-
 Convert the following designs to two HTML pages, using HTML/CSS/JS (additional libraries such as AngularJS can be used).
 
 ## Infinite scroll page (with a popover)
@@ -22,17 +11,25 @@ Convert the following designs to two HTML pages, using HTML/CSS/JS (additional l
 ![preview popover](https://github.com/BGLCorp/front-end-challenge-cas360/blob/master/notesDesign.png?raw=true)
 
 
+## What should you do
+
+1. Use your personal GitHub account to fork current project and push your solution to it.
+2. All solutions should be in the same forked project with good code style, comments and _SOLUTION.md_ description.
+3. Please send us a link to your fork project once your work is done.
+
+
 #### Instructions
 
 1. Create a project by forking this project
 2. Make the solution responsive using your best judgement.
 3. Use [BEM](https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/) naming convention (optional).
 4. We pay attention to both CSS and JS bundle sizes. Import just what you require and not the whole package.
-5. The code should be _readable_ and of high quality.
-6. Avoid using huge commits hiding your progress. The initial commit should be two bare HTML pages. Work on your branch and feel free to use rebase to adjust your commits before submitting the final version.
+5. The code should be _readable_ and of _high quality_.
+6. Avoid using huge commits hiding your progress. 
+The initial commit should be two bare HTML pages. Work on your branch and feel free to use rebase to adjust your commits before submitting the final version.
 
 ## Coding Standards
-When working on the project use consistent coding style. Try to check guidelines like
+When working on the project use consistent coding style. Try to check guidelines such as
 [Code Guide](http://codeguide.co/) or
 [CSS Guidelines](http://cssguidelin.es/).
 
@@ -55,7 +52,7 @@ to all these questions:
 
 ### Browser check
 
-- Does page display and work correctly in supported browsers?
+- Do the pages display and work correctly in supported browsers - Chrome, Firefox & IE 11?
 
 ### Valid HTML
 
